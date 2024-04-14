@@ -21,13 +21,13 @@ aspiring to become a **frontend developer**!
 
 <Br/> 
 
-- 🌱 I’m currently learning react, typescript, javasciprt and next.js.
+- 🌱 I’m currently learning react, javascript and next.js.
 
   <!--
 Here are some ideas to get you started:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=iamyerimi)](https://velog.io/@iamyerimi)
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning react, typescript, javasciprt and next.js.
+- 🌱 I’m currently learning react, javascript and next.js.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
